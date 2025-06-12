@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "49HXJ57G75.com.yvteam.screenMaker",
+                "paths": ["*", "/"]
+            }
+        ]
+    }
+}
