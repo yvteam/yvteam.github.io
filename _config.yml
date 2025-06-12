@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://http://microfishapp.xyz/
+url: http://microfishapp.xyz/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -86,7 +86,9 @@ pagination_dir: page
 
 # Include / Exclude file(s)
 ## include:/exclude: options only apply to the 'source/' folder
-include:
+include: 
+  - ".well-known/*"
+  - "_config.yml"
 exclude:
 ignore:
 
@@ -99,5 +101,7 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
+  name: yvteam
+  email: yvteam@163.com
   repo: https://yvteam@github.com/yvteam/yvteam.github.io.git
   branch: master
