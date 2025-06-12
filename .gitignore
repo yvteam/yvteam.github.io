@@ -1,9 +1,0 @@
-.DS_Store
-Thumbs.db
-db.json
-*.log
-node_modules/
-public/
-.deploy*/
-# 确保主题文件被包含在仓库中
-# themes/ 注释掉，让主题文件被提交
