@@ -33,7 +33,6 @@ Record every day of persistence, every progress milestone, and every insight on 
 Daily Weight covers all scenarios that impact weight management, supporting quick data entry and comprehensive tracking. We believe it will help you walk more easily on your weight loss and fitness transformation path, making it easier to maintain long-term healthy lifestyle changes.
 Download and start your journey now!
 
-weight loss tracker, calorie counter, fitness diary, body fat calculator, BMI tracker, diet planner, nutrition logger, food diary, workout tracker, health tracker, weight management, fitness goals, body measurements, daily weigh in, progress tracker, meal planner, hydration tracker, exercise log, healthy habits, wellness journal
 
 Please let us know if you have any suggestions at yvteam@163.com.
 
