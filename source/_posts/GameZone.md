@@ -60,4 +60,6 @@ Extend the perfect stick length to bridge gaps between platforms! Simple one-tou
 
 Download GameZone now and discover your new favorite mini game addiction! Turn every spare moment into fun brain training. One app, endless entertainment!
 
+Please let us know if you have any suggestions at yvteam@163.com.
+
 ![](/images/gamezone.jpg)
