@@ -1,12 +1,12 @@
 ---
-title: BloomBreath
+title: Calm Bloom
 date: 2026-05-24 19:10:33
 tags:
 ---
 
-## BloomBreath: Calm Breathing
+## Calm Bloom: Calm Breathing
 
-BloomBreath is an offline-first companion for emotional balance, breathing resets, and gentle inner growth.
+Calm Bloom is an offline-first companion for emotional balance, breathing resets, and gentle inner growth.
   It combines daily affirmations, guided breathing exercises, mood journaling, classic quote reading, and weekly reflection so you can slow down, settle your emotions, and build a steadier self-care rhythm.
   The experience is optimized for breathing exercises, daily affirmations and quotes, stress relief, calmer anxious moments, mindfulness routines, self-care habits, helping stressful, anxious, distracted, or low-energy moments feel more manageable.
   
